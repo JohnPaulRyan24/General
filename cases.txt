@@ -1,0 +1,1152 @@
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+Syracuse
+Oklahoma
+Syracuse
+Syracuse
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+Syracuse
+Oklahoma
+Syracuse
+Syracuse
+
+Person 2 wins in the following case:
+Villanova
+Oregon
+NotreDame
+Syracuse
+Oregon
+Syracuse
+Syracuse
+
+Person 2 wins in the following case:
+Kansas
+Oregon
+NotreDame
+Syracuse
+Oregon
+Syracuse
+Syracuse
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+UNC
+Syracuse
+Oklahoma
+Syracuse
+Syracuse
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+UNC
+Syracuse
+Oklahoma
+Syracuse
+Syracuse
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+Syracuse
+Oregon
+Syracuse
+Syracuse
+
+Person 2 wins in the following case:
+Kansas
+Oregon
+UNC
+Syracuse
+Oregon
+Syracuse
+Syracuse
+
+Person 3 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+UVA
+Oklahoma
+UVA
+UVA
+
+Person 3 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+UVA
+Oklahoma
+UVA
+UVA
+
+Person 3 wins in the following case:
+Villanova
+Oregon
+NotreDame
+UVA
+Oregon
+UVA
+UVA
+
+Person 3 wins in the following case:
+Kansas
+Oregon
+NotreDame
+UVA
+Oregon
+UVA
+UVA
+
+Person 3 wins in the following case:
+Villanova
+Oklahoma
+UNC
+UVA
+Oklahoma
+UVA
+UVA
+
+Person 3 wins in the following case:
+Kansas
+Oklahoma
+UNC
+UVA
+Oklahoma
+UVA
+UVA
+
+Person 3 wins in the following case:
+Villanova
+Oregon
+UNC
+UVA
+Oregon
+UVA
+UVA
+
+Person 3 wins in the following case:
+Kansas
+Oregon
+UNC
+UVA
+Oregon
+UVA
+UVA
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+Syracuse
+Villanova
+Syracuse
+Syracuse
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+Syracuse
+Kansas
+Syracuse
+Syracuse
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+Syracuse
+Villanova
+Syracuse
+Syracuse
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+Syracuse
+Kansas
+Syracuse
+Syracuse
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+UNC
+Syracuse
+Villanova
+Syracuse
+Syracuse
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+UNC
+Syracuse
+Kansas
+Syracuse
+Syracuse
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+Syracuse
+Villanova
+Syracuse
+Syracuse
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+UNC
+Syracuse
+Kansas
+Syracuse
+Syracuse
+
+Person 3 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+UVA
+Villanova
+UVA
+UVA
+
+Person 3 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+UVA
+Kansas
+UVA
+UVA
+
+Person 3 wins in the following case:
+Villanova
+Oregon
+NotreDame
+UVA
+Villanova
+UVA
+UVA
+
+Person 3 wins in the following case:
+Kansas
+Oregon
+NotreDame
+UVA
+Kansas
+UVA
+UVA
+
+Person 3 wins in the following case:
+Villanova
+Oklahoma
+UNC
+UVA
+Villanova
+UVA
+UVA
+
+Person 3 wins in the following case:
+Kansas
+Oklahoma
+UNC
+UVA
+Kansas
+UVA
+UVA
+
+Person 3 wins in the following case:
+Villanova
+Oregon
+UNC
+UVA
+Villanova
+UVA
+UVA
+
+Person 3 wins in the following case:
+Kansas
+Oregon
+UNC
+UVA
+Kansas
+UVA
+UVA
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+Syracuse
+Oklahoma
+NotreDame
+NotreDame
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+Syracuse
+Oklahoma
+NotreDame
+NotreDame
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+Syracuse
+Oregon
+NotreDame
+NotreDame
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+Syracuse
+Oregon
+NotreDame
+NotreDame
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+UNC
+Syracuse
+Oklahoma
+UNC
+UNC
+
+Person 1 wins in the following case:
+Kansas
+Oklahoma
+UNC
+Syracuse
+Oklahoma
+UNC
+UNC
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+Syracuse
+Oregon
+UNC
+UNC
+
+Person 1 wins in the following case:
+Kansas
+Oregon
+UNC
+Syracuse
+Oregon
+UNC
+UNC
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+UVA
+Oklahoma
+NotreDame
+NotreDame
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+UVA
+Oklahoma
+NotreDame
+NotreDame
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+UVA
+Oregon
+NotreDame
+NotreDame
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+UVA
+Oregon
+NotreDame
+NotreDame
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+UNC
+UVA
+Oklahoma
+UNC
+UNC
+
+Person 1 wins in the following case:
+Kansas
+Oklahoma
+UNC
+UVA
+Oklahoma
+UNC
+UNC
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+UVA
+Oregon
+UNC
+UNC
+
+Person 1 wins in the following case:
+Kansas
+Oregon
+UNC
+UVA
+Oregon
+UNC
+UNC
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+Syracuse
+Villanova
+NotreDame
+NotreDame
+
+Person 0 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+Syracuse
+Kansas
+NotreDame
+NotreDame
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+Syracuse
+Villanova
+NotreDame
+NotreDame
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+Syracuse
+Kansas
+NotreDame
+NotreDame
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+UNC
+Syracuse
+Villanova
+UNC
+UNC
+
+Person 1 wins in the following case:
+Kansas
+Oklahoma
+UNC
+Syracuse
+Kansas
+UNC
+UNC
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+Syracuse
+Villanova
+UNC
+UNC
+
+Person 1 wins in the following case:
+Kansas
+Oregon
+UNC
+Syracuse
+Kansas
+UNC
+UNC
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+UVA
+Villanova
+NotreDame
+NotreDame
+
+Person 0 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+UVA
+Kansas
+NotreDame
+NotreDame
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+UVA
+Villanova
+NotreDame
+NotreDame
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+UVA
+Kansas
+NotreDame
+NotreDame
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+UNC
+UVA
+Villanova
+UNC
+UNC
+
+Person 1 wins in the following case:
+Kansas
+Oklahoma
+UNC
+UVA
+Kansas
+UNC
+UNC
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+UVA
+Villanova
+UNC
+UNC
+
+Person 1 wins in the following case:
+Kansas
+Oregon
+UNC
+UVA
+Kansas
+UNC
+UNC
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+Syracuse
+Oklahoma
+Syracuse
+Oklahoma
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+Syracuse
+Oklahoma
+Syracuse
+Oklahoma
+
+Person 2 wins in the following case:
+Villanova
+Oregon
+NotreDame
+Syracuse
+Oregon
+Syracuse
+Oregon
+
+Person 2 wins in the following case:
+Kansas
+Oregon
+NotreDame
+Syracuse
+Oregon
+Syracuse
+Oregon
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+UNC
+Syracuse
+Oklahoma
+Syracuse
+Oklahoma
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+UNC
+Syracuse
+Oklahoma
+Syracuse
+Oklahoma
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+Syracuse
+Oregon
+Syracuse
+Oregon
+
+Person 2 wins in the following case:
+Kansas
+Oregon
+UNC
+Syracuse
+Oregon
+Syracuse
+Oregon
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+UVA
+Oklahoma
+UVA
+Oklahoma
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+UVA
+Oklahoma
+UVA
+Oklahoma
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+UVA
+Oregon
+UVA
+Oregon
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+UVA
+Oregon
+UVA
+Oregon
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+UNC
+UVA
+Oklahoma
+UVA
+Oklahoma
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+UNC
+UVA
+Oklahoma
+UVA
+Oklahoma
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+UVA
+Oregon
+UVA
+Oregon
+
+Person 3 wins in the following case:
+Kansas
+Oregon
+UNC
+UVA
+Oregon
+UVA
+Oregon
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+Syracuse
+Villanova
+Syracuse
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+Syracuse
+Kansas
+Syracuse
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+Syracuse
+Villanova
+Syracuse
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+Syracuse
+Kansas
+Syracuse
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+UNC
+Syracuse
+Villanova
+Syracuse
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oklahoma
+UNC
+Syracuse
+Kansas
+Syracuse
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+Syracuse
+Villanova
+Syracuse
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+UNC
+Syracuse
+Kansas
+Syracuse
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+UVA
+Villanova
+UVA
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+UVA
+Kansas
+UVA
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+UVA
+Villanova
+UVA
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+UVA
+Kansas
+UVA
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+UNC
+UVA
+Villanova
+UVA
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oklahoma
+UNC
+UVA
+Kansas
+UVA
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+UVA
+Villanova
+UVA
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+UNC
+UVA
+Kansas
+UVA
+Kansas
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+Syracuse
+Oklahoma
+NotreDame
+Oklahoma
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+Syracuse
+Oklahoma
+NotreDame
+Oklahoma
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+Syracuse
+Oregon
+NotreDame
+Oregon
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+Syracuse
+Oregon
+NotreDame
+Oregon
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+UNC
+Syracuse
+Oklahoma
+UNC
+Oklahoma
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+UNC
+Syracuse
+Oklahoma
+UNC
+Oklahoma
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+Syracuse
+Oregon
+UNC
+Oregon
+
+Person 1 wins in the following case:
+Kansas
+Oregon
+UNC
+Syracuse
+Oregon
+UNC
+Oregon
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+UVA
+Oklahoma
+NotreDame
+Oklahoma
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+UVA
+Oklahoma
+NotreDame
+Oklahoma
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+UVA
+Oregon
+NotreDame
+Oregon
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+UVA
+Oregon
+NotreDame
+Oregon
+
+Person 2 wins in the following case:
+Villanova
+Oklahoma
+UNC
+UVA
+Oklahoma
+UNC
+Oklahoma
+
+Person 2 wins in the following case:
+Kansas
+Oklahoma
+UNC
+UVA
+Oklahoma
+UNC
+Oklahoma
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+UVA
+Oregon
+UNC
+Oregon
+
+Person 1 wins in the following case:
+Kansas
+Oregon
+UNC
+UVA
+Oregon
+UNC
+Oregon
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+Syracuse
+Villanova
+NotreDame
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+Syracuse
+Kansas
+NotreDame
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+Syracuse
+Villanova
+NotreDame
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+Syracuse
+Kansas
+NotreDame
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+UNC
+Syracuse
+Villanova
+UNC
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oklahoma
+UNC
+Syracuse
+Kansas
+UNC
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+Syracuse
+Villanova
+UNC
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+UNC
+Syracuse
+Kansas
+UNC
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+NotreDame
+UVA
+Villanova
+NotreDame
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oklahoma
+NotreDame
+UVA
+Kansas
+NotreDame
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+NotreDame
+UVA
+Villanova
+NotreDame
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+NotreDame
+UVA
+Kansas
+NotreDame
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oklahoma
+UNC
+UVA
+Villanova
+UNC
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oklahoma
+UNC
+UVA
+Kansas
+UNC
+Kansas
+
+Person 1 wins in the following case:
+Villanova
+Oregon
+UNC
+UVA
+Villanova
+UNC
+Villanova
+
+Person 0 wins in the following case:
+Kansas
+Oregon
+UNC
+UVA
+Kansas
+UNC
+Kansas
+
