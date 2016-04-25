@@ -46,7 +46,12 @@ public class PageRank {
 		}
 		double dole;
 		for(Node node : nodes){
+			if(node.neighbors.size()==0){
+				node.currentPR+=node.lastPR;
+				continue;
+			}
 			dole = node.lastPR/node.neighbors.size();
+			
 			for(Node neighbor : node.neighbors){
 				neighbor.currentPR+=dole;
 			}	
