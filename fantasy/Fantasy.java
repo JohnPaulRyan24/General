@@ -18,14 +18,37 @@ public class Fantasy {
 		int n;
 		int cutoff;
 		//WEEK 10 TOGGLES
-		int win1 = 2; // 1 if John wins, 0 if Dave wins
-		int win2 = 2; // 1 if Ryan wins, 0 if Patrick wins
-		int win3 = 2; // 1 if Fano wins, 0 if Rich wins
-		int win4 = 2; // 1 if Joe wins,  0 if Chris wins
+		int win1 = 1; // 1 if John wins, 0 if Dave wins
+		int win2 = 1; // 1 if Ryan wins, 0 if Patrick wins
+		int win3 = 0; // 1 if Fano wins, 0 if Rich wins
+		int win4 = 1; // 1 if Joe wins,  0 if Chris wins
+		int temp;
+		for(int j=0;j<16;j++){
+			System.out.println("*********************************************");
+			temp = j;
+		System.out.println("Case "+(temp+1)+" ");
+//		//WEEK 11 TOGGLES
+//		int win5 = 2; // 1 if John wins, 0 if Joe wins
+//		int win6 = 2; // 1 if Dave wins, 0 if Rich wins
+//		int win7 = 2; // 1 if Fano wins, 0 if Patrick wins
+//		int win8 = 2; // 1 if Chris wins,  0 if Ryan wins
+//		
+//		
+		int win5 = temp%2; temp/=2;
+		int win6 = temp%2; temp/=2;
+		int win7 = temp%2; temp/=2;
+		int win8 = temp%2; 
+		if(win5 == 0) System.out.print("Joe wins, "); else System.out.print("John wins, ");
+		if(win6 == 0) System.out.print("Rich wins, "); else System.out.print("Dave wins, ");
+		if(win7 == 0) System.out.print("Patrick wins, "); else System.out.print("Fano wins, ");
+		if(win8 == 0) System.out.println("Ryan wins."); else System.out.println("Chris wins.");
 		
 		for(int data = 0; data<65536; data++){
 			
 			if((data/1) %2==win1 || (data/2)%2 == win2|| (data/4)%2 == win3 || (data/8)%2==win4){
+				continue;
+			}
+			if((data/16) %2==win5 || (data/32)%2 == win6|| (data/64)%2 == win7 || (data/128)%2==win8){
 				continue;
 			}
 			
@@ -57,6 +80,7 @@ public class Fantasy {
 			for(Person p : people){
 				if(p.wins>=cutoff){
 					p.playoffs++;
+					//if(p.name.equals("Rich")) System.out.println(Integer.toBinaryString(data));
 				}if(p.wins<=cutoff){
 					p.cuts++;
 				}
@@ -64,14 +88,19 @@ public class Fantasy {
 			}
 		}
 		for(Person p : people){
-			if(p.playoffs==0){
+			if(p.playoffs==0&&!p.name.equals("Fano")){
 				System.out.println(p.name+" can't make playoffs!");
+				
 			}else if(p.cuts == 0){
 				System.out.println(p.name+" has clinched playoffs!");
+				
 			}
+			p.playoffs=0;
+			p.cuts=0;
 		}
 		
 		
+	}
 	}
 }
 
