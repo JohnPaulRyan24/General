@@ -1,0 +1,66 @@
+*********************************************
+Case 1 
+Joe wins, Rich wins, Patrick wins, Ryan wins.
+*********************************************
+Case 2 
+John wins, Rich wins, Patrick wins, Ryan wins.
+*********************************************
+Case 3 
+Joe wins, Dave wins, Patrick wins, Ryan wins.
+Rich can't make playoffs!
+*********************************************
+Case 4 
+John wins, Dave wins, Patrick wins, Ryan wins.
+Joe can't make playoffs!
+Rich can't make playoffs!
+*********************************************
+Case 5 
+Joe wins, Rich wins, Fano wins, Ryan wins.
+*********************************************
+Case 6 
+John wins, Rich wins, Fano wins, Ryan wins.
+*********************************************
+Case 7 
+Joe wins, Dave wins, Fano wins, Ryan wins.
+Rich can't make playoffs!
+*********************************************
+Case 8 
+John wins, Dave wins, Fano wins, Ryan wins.
+Joe can't make playoffs!
+Rich can't make playoffs!
+*********************************************
+Case 9 
+Joe wins, Rich wins, Patrick wins, Chris wins.
+Chris has clinched playoffs!
+*********************************************
+Case 10 
+John wins, Rich wins, Patrick wins, Chris wins.
+Chris has clinched playoffs!
+*********************************************
+Case 11 
+Joe wins, Dave wins, Patrick wins, Chris wins.
+Chris has clinched playoffs!
+Rich can't make playoffs!
+*********************************************
+Case 12 
+John wins, Dave wins, Patrick wins, Chris wins.
+Chris has clinched playoffs!
+Rich can't make playoffs!
+*********************************************
+Case 13 
+Joe wins, Rich wins, Fano wins, Chris wins.
+Chris has clinched playoffs!
+*********************************************
+Case 14 
+John wins, Rich wins, Fano wins, Chris wins.
+Chris has clinched playoffs!
+*********************************************
+Case 15 
+Joe wins, Dave wins, Fano wins, Chris wins.
+Chris has clinched playoffs!
+Rich can't make playoffs!
+*********************************************
+Case 16 
+John wins, Dave wins, Fano wins, Chris wins.
+Chris has clinched playoffs!
+Rich can't make playoffs!
