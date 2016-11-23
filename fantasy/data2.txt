@@ -1,0 +1,92 @@
+*********************************************
+Case 1 
+Ryan wins Patrick wins Fano wins Joe wins 
+Ryan has clinched playoffs!
+Chris has clinched playoffs!
+*********************************************
+Case 2 
+John wins Patrick wins Fano wins Joe wins 
+Chris has clinched playoffs!
+John has clinched playoffs!
+Ryan has clinched playoffs!
+*********************************************
+Case 3 
+Ryan wins Chris wins Fano wins Joe wins 
+Chris has clinched playoffs!
+Ryan has clinched playoffs!
+*********************************************
+Case 4 
+John wins Chris wins Fano wins Joe wins 
+Chris has clinched playoffs!
+John has clinched playoffs!
+Ryan has clinched playoffs!
+*********************************************
+Case 5 
+Ryan wins Patrick wins Dave wins Joe wins 
+Ryan has clinched playoffs!
+Joe can't make playoffs!
+*********************************************
+Case 6 
+John wins Patrick wins Dave wins Joe wins 
+Joe can't make playoffs!
+*********************************************
+Case 7 
+Ryan wins Chris wins Dave wins Joe wins 
+Chris has clinched playoffs!
+Ryan has clinched playoffs!
+Patrick can't make playoffs!
+Joe can't make playoffs!
+*********************************************
+Case 8 
+John wins Chris wins Dave wins Joe wins 
+Chris has clinched playoffs!
+Patrick can't make playoffs!
+Joe can't make playoffs!
+*********************************************
+Case 9 
+Ryan wins Patrick wins Fano wins Rich wins 
+Ryan has clinched playoffs!
+Chris has clinched playoffs!
+Joe can't make playoffs!
+*********************************************
+Case 10 
+John wins Patrick wins Fano wins Rich wins 
+Chris has clinched playoffs!
+John has clinched playoffs!
+Ryan has clinched playoffs!
+Joe can't make playoffs!
+*********************************************
+Case 11 
+Ryan wins Chris wins Fano wins Rich wins 
+Chris has clinched playoffs!
+Ryan has clinched playoffs!
+Joe can't make playoffs!
+*********************************************
+Case 12 
+John wins Chris wins Fano wins Rich wins 
+Chris has clinched playoffs!
+John has clinched playoffs!
+Ryan has clinched playoffs!
+Joe can't make playoffs!
+*********************************************
+Case 13 
+Ryan wins Patrick wins Dave wins Rich wins 
+Ryan has clinched playoffs!
+Joe can't make playoffs!
+*********************************************
+Case 14 
+John wins Patrick wins Dave wins Rich wins 
+Joe can't make playoffs!
+*********************************************
+Case 15 
+Ryan wins Chris wins Dave wins Rich wins 
+Chris has clinched playoffs!
+Ryan has clinched playoffs!
+Patrick can't make playoffs!
+Joe can't make playoffs!
+*********************************************
+Case 16 
+John wins Chris wins Dave wins Rich wins 
+Chris has clinched playoffs!
+Patrick can't make playoffs!
+Joe can't make playoffs!
